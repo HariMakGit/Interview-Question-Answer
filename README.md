@@ -21,3 +21,34 @@ Interview Question &amp; Answer
 18. What is Kestrel and how is it different from IIS?
 19. How do you support API versioning?
 20. How do you secure an ASP.NET Core Web API?
+
+21. 🟢 𝗘𝗮𝘀𝘆 (𝟳)
+ • What is .NET Core, and how does it differ from the .NET Framework?
+ • How do you create a new Web API project in .NET Core?
+ • What are middleware components in .NET Core?
+ • What is dependency injection, and how is it built into .NET Core?
+ • How do you configure appsettings.json in .NET Core?
+ • What is the difference between IActionResult and ActionResult<T> in controllers?
+ • How do you enable Swagger in a .NET Core Web API?
+
+🟡 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 (𝟳)
+ • Explain the difference between transient, scoped, and singleton lifetimes in dependency injection.
+ • How do you implement logging in .NET Core applications?
+ • What are filters in ASP.NET Core MVC, and when would you use them?
+ • How do you implement global exception handling in .NET Core?
+ • What is the purpose of the Startup.cs (or Program.cs in .NET 6+)?
+ • How do you implement authentication and authorization in .NET Core APIs?
+ • Explain the difference between Kestrel and IIS in hosting .NET Core apps.
+
+🔴 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 (𝟵)
+ • How do you configure health checks in .NET Core microservices?
+ • Explain the Circuit Breaker and Retry patterns in resilient APIs.
+ • How does the IHostedService interface work, and when would you use it?
+ • What is the difference between minimal APIs and traditional controllers?
+ • How do you implement caching (in-memory, distributed, or response caching) in .NET Core?
+ • Explain how EF Core handles migrations and database seeding.
+ • What are gRPC services, and how do they integrate with .NET Core?
+ • How do you containerize a .NET Core API with Docker?
+ • Explain the concept of background services using BackgroundService in .NET Core.
+ • How do you secure .NET Core APIs using JWT and IdentityServer?
+ • What strategies do you use for scaling and load balancing .NET Core applications in production?
